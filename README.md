@@ -1,6 +1,6 @@
 # hello-spring
-김영한님 기본 입문/br
-java sourceCompatibility = '11' 
+김영한님 기본 입문 <br>
+java sourceCompatibility = '11' <br>
 
 1. Spring Data JPA를 이용하여 데이터베이스에 회원가입 및 회원목록 두가지 api를 구현하였습니다.  
 2. 회원가입 (ID & Name) 2가지 정보를 사용합니다. ID는 auto-generate이고 name은 중복으로 가입하지 못합니다.
